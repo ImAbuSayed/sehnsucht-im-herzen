@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sehnsucht im Herzen
+
+This log tracks the cryptographic history and versioning for the song **Sehnsucht im Herzen** (sehnsucht-im-herzen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:05:42.534441 | `v1` | `f48f634cfc0be20add52c924a8fbc638657779200e1fb96ae8467be8079e68c6` | `2c0531cacc1df1baae72e8240b5dc51581358ed705e34f9618d254bfaeb0405b` | `2026-06-28_sehnsucht-im-herzen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
