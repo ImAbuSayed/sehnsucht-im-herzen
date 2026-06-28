@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sehnsucht-im-herzen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sehnsucht im Herzen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sehnsucht-im-herzen/) |
+| **Get License** | [Get License For Sehnsucht im Herzen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sehnsucht-im-herzen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer Benz, Baby, steig ein, die Nacht gehört nur uns
+> Rote Lichter auf der Skyline, kein Limit und kein Grund
+> Dein Blick ist so gefährlich, mein Heartbeat schlägt Alarm
+> Komm, wir flieh'n vor der City, sicher in meinem Arm
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
